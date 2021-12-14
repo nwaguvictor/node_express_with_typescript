@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"allowJs": false,
+		"noImplicitAny": true,
+		"esModuleInterop": true,
+		"moduleResolution": "node",
+		"module": "commonjs",
+		"target": "ES6",
+		"outDir": "./dist",
+		"rootDir": "./src"
+	},
+	"files": ["src/index.ts"],
+	"include": ["src/**/*"]
+}
